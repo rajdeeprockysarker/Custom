@@ -1,0 +1,69 @@
+Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All
+
+C:\Users\rajdeeps>cd C:\Users\rajdeeps\Desktop\
+
+C:\Users\rajdeeps\Desktop\Custom>cordova create
+Creating a new cordova project.
+
+C:\Users\rajdeeps\Desktop\Custom>cd HelloToast
+
+C:\Users\rajdeeps\Desktop\Custom\HelloToast>cor
+Adding android project...
+Creating Cordova project for the Android platfo
+        Path: platforms\android
+        Package: com.test
+        Name: HelloToast
+        Activity: MainActivity
+        Android target: android-23
+Android project created with cordova-android@5.
+Discovered plugin "cordova-plugin-whitelist" in
+oject
+Fetching plugin "cordova-plugin-whitelist@1" vi
+Installing "cordova-plugin-whitelist" for andro
+
+               This plugin is only applicable f
+eater than 4.0. If you have a previous platform
+plugin since the whitelist will be built in.
+
+
+C:\Users\rajdeeps\Desktop\Custom\HelloToast>cor
+Installing "com.example.hello" for android
+
+C:\Users\rajdeeps\Desktop\Custom\HelloToast>cd.
+
+C:\Users\rajdeeps\Desktop\Custom>cordova create
+Error: Path already exists and is not empty: C:
+lloToast
+
+C:\Users\rajdeeps\Desktop\Custom>cordova create
+Creating a new cordova project.
+
+C:\Users\rajdeeps\Desktop\Custom>cordova platfo
+Error: Current working directory is not a Cordo
+
+C:\Users\rajdeeps\Desktop\Custom>cd HelloToast
+
+C:\Users\rajdeeps\Desktop\Custom\HelloToast>cor
+Adding android project...
+Creating Cordova project for the Android platfo
+        Path: platforms\android
+        Package: com.test
+        Name: HelloToast
+        Activity: MainActivity
+        Android target: android-23
+Android project created with cordova-android@5.
+Discovered plugin "cordova-plugin-whitelist" in
+oject
+Fetching plugin "cordova-plugin-whitelist@1" vi
+Installing "cordova-plugin-whitelist" for andro
+
+               This plugin is only applicable f
+eater than 4.0. If you have a previous platform
+plugin since the whitelist will be built in.
+
+
+C:\Users\rajdeeps\Desktop\Custom\HelloToast>cor
+Installing "com.example.hello" for android
+
+C:\Users\rajdeeps\Desktop\Custom\HelloToast>
